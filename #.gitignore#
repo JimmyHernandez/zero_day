@@ -1,4 +1,10 @@
-uto-save-list
+# -*- mode: gitignore; -*-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
 tramp
 .\#*
 
@@ -36,4 +42,4 @@ flycheck_*.el
 .projectile
 
 # directory configuration
-.dir-locals.el
+.dir-locals.el  
